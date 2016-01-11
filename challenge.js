@@ -65,4 +65,4 @@ var myInvite = new Invite(me, party);
 // respond to the event
 myInvite.respondPositive();
 // and get a list of all those who have confirmed attending to that event.
-party.getAttendees());
+party.getAttendees();
